@@ -8,3 +8,4 @@ This Repo have all the Generative AI and Prompt Engineering Notebooks. Also Prin
 - Summarizing: Getting the best summarize depending on various stakelholders.
 - Infering: Sentiment Analyis.
 - Transforming: language translation, spelling and grammar checking, tone adjustment, and format conversion.
+- Expanding: Creating mail, reply etc from one-liner or word or small sentence, varying reply by varing temperature.
