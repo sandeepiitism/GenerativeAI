@@ -1,7 +1,10 @@
 # GenerativeAI
 
-This Repo have all the Generative AI and Prompt Engineering Notebooks
+This Repo have all the Generative AI and Prompt Engineering Notebooks. Also Principle 1 and Principle 2 of Instruction tunned LLM.
 
-### Notebooks:
-- Prompting: Principle 1 and Principle 2 of Instruction tunned LLM
-- Iterative Prompt development: 
+### Notebooks: 
+- Prompting: Good prompt practices, avoid prompt injection, few shot prompt, etc. 
+- Iterative: Keep iteraing for the best prompt. 
+- Summarizing: Getting the best summarize depending on various stakelholders.
+- Infering: Sentiment Analyis.
+- Transforming: language translation, spelling and grammar checking, tone adjustment, and format conversion.
