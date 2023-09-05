@@ -18,5 +18,6 @@ This Repo have all the Generative AI and Prompt Engineering Notebooks. Also Prin
 - Langchain models, Prompts and parser: extracting dictionary format using parser
 - Langchain Memory: ConversationBufferMemory, ConversationBufferWindowMemor, ConversationTokenBufferMemory, ConversationSummaryMemory
 - Langchain Chains: Creating different routing prompts for different group of users.
+- Langchain Question and Answering: Uploading documents and prompting to get the responses.
 
 
