@@ -3,7 +3,7 @@
 ## 1. LLMs Prompt
 ## 2. Langchain
 
-This Repo have all the Generative AI and Prompt Engineering Notebooks. Also Principle 1 and Principle 2 of Instruction tunned LLM.
+`This Repo have all the Generative AI and Prompt Engineering Notebooks. Also Principle 1 and Principle 2 of Instruction tunned LLM.`
 
 ### Notebooks for LLM Prompting: 
 - Prompting: Good prompt practices, avoid prompt injection, few shot prompt, etc. 
