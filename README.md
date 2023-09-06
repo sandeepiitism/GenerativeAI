@@ -2,6 +2,7 @@
 
 ## 1. LLMs Prompt
 ## 2. Langchain
+## 3. Diffusion Model
 
 `This Repo have all the Generative AI and Prompt Engineering Notebooks. Also Principle 1 and Principle 2 of Instruction tunned LLM.`
 
@@ -15,11 +16,14 @@
 - Chatbot: Create a bot as shown in the code Notebook.
 
 ### Notebooks for Langchain: 
-- Langchain models, Prompts and parser: extracting dictionary format using parser
+- Langchain models, Prompts and parser: extracting dictionary format using parser.
 - Langchain Memory: ConversationBufferMemory, ConversationBufferWindowMemor, ConversationTokenBufferMemory, ConversationSummaryMemory
 - Langchain Chains: Creating different routing prompts for different group of users.
 - Langchain Question and Answering: Uploading documents and prompting to get the responses.
 - Langchain Evaluation- generating question and generated answer from a small set of q&a in dict form.
 - Langchain Agent: Agent can be mathematical tool, wikipedia, Python REPL, etc.
+
+### Notebooks for Diffusion Model: 
+- Diffusion Sampling: Noise to Image using Neural Network 
 
 
